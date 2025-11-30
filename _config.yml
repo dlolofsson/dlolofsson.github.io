@@ -1,0 +1,5 @@
+theme: minima
+title: Daniel Olofsson Personal Web Page
+markdown: kramdown
+nav:
+  - index.md
