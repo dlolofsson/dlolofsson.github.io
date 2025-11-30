@@ -16,7 +16,9 @@ blurbi
 
 BLURB!
 
-![tornado_lamp](./assets/images/tornado_lamp.jpg)
+![Tornado_Lamp](./assets/images/Tornado-Lamp.jfif)
+
+![Tornado_Lamp_Video](./assets/images/Marble-Coaster-Video.mp4)
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/VIDEO_ID"
@@ -37,6 +39,8 @@ blurby
 
 blurbathon
 
+![Earbud_Case](./assets/images/Earbud-Case-Holder.jfif)
+
 ### Coat hanger (Jul 2025)
 
 blurbathon the 2nd
@@ -47,7 +51,14 @@ blurbathon jr.
 
 ![Marble_Roller_Coaster](./assets/images/Marble-Coaster.jfif)
 
-![Marble_Roller_Coaster](./assets/images/Videos/Marble-Coaster-Video.mp4)
+![Marble_Roller_Coaster_Video](./assets/images/Videos/Marble-Coaster-Video.mp4)
+
+<iframe width="560" height="315"
+  src="https://youtu.be/Pt2sZilWaAs"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 ### Chiplet mockup (May 2025)
 
@@ -65,4 +76,4 @@ brulb
 
 ### Minecraft redstone Fun (2018)
 
-ran out of names for u blurv
+blurv
