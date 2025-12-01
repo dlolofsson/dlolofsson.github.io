@@ -12,13 +12,19 @@ Hi! My name is Daniel Olofsson. I am a junior at Minmuteman Vocational High Scho
 
 blurbi
 
+![Pens and Receipts Holder](./assets/images/tbd.jfif)
+
+![Pens and Receipts Holder](./assets/models/Pen-and-Receipt-Holder.stl)
+
+![Receipts Holder](./assets/images/tbd.jfif)
+
+![Receipts Holder](./assets/models/3rd-Receipts-Holder.stl)
+
 ### Tornado Lamp (Oct 2025)
 
-BLURB!
+The tornado lamp was a project during my Junior year in Engineering.
 
-![Tornado_Lamp](./assets/images/Tornado-Lamp.jfif)
-
-![Tornado_Lamp_Video](./assets/images/Marble-Coaster-Video.mp4)
+![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/VIDEO_ID"
@@ -27,31 +33,43 @@ BLURB!
   allowfullscreen>
 </iframe>
 
-![tornado_lamp_drawings](./assets/images/tornado_lamp.stl)
+Assembly (idk how to add)
+
+multi sim (Desktop Computers)
+
+2 drawings (future version of SOLIDWORKS)
+
+![Tornado Lamp Drawings](./assets/images/tornado_lamp.stl)
 
 ### Phone case (Oct 2025)
 
 blurby
 
-![Phone_Cases](./assets/images/Phones.jfif)
+![Phone Cases](./assets/images/Phones.jfif)
+
+![Phone Cases](./assets/models/Phone-Case-10.stl)
 
 ### Earbud key chain (Sept 2025)
 
-blurbathon
+When my earbud case was in my pocket, I had to get up to put away my earbuds. I created this model to be able to access my earbud case while sitting down.
 
-![Earbud_Case](./assets/images/Earbud-Case-Holder.jfif)
+![Earbud Case](./assets/images/Earbud-Case-Holder.jfif)
+
+![Earbud Case](./assets/models/EarBudCase.stl)
 
 ### Coat hanger (Jul 2025)
 
-blurbathon the 2nd
+I needed a coat hanger for my wall that would have screw holes where the studs were in my wall.
+
+pic
+
+assembly file
 
 ### Marble roller coaster (May 2025)
 
-blurbathon jr.
+This was a two-person Engineering assisbnent. Groups had to come up with a way to make an infinite loop for marbles. Each project needed to have at least 2 3D-printed parts.
 
-![Marble_Roller_Coaster](./assets/images/Marble-Coaster.jfif)
-
-![Marble_Roller_Coaster_Video](./assets/images/Videos/Marble-Coaster-Video.mp4)
+![Marble Roller Coaster](./assets/images/Marble-Coaster.jfif)
 
 <iframe width="560" height="315"
   src="https://youtu.be/Pt2sZilWaAs"
@@ -60,20 +78,42 @@ blurbathon jr.
   allowfullscreen>
 </iframe>
 
+stl file
+
 ### Chiplet mockup (May 2025)
 
 blurbs
+
+stl 1
+
+stl 2
+
+stl 3
+
+stl 4
+
+assembly
+
+assembly (pic)
 
 ### Water spout holder (Dec 2024)
 
 blurben
 
-![Water_Spout_Holder](./assets/images/Water-Spout-Holder.jfif)
+![Water Spout Holder](./assets/images/Water-Spout-Holder.jfif)
 
 ### Beeswarm macro automation (2020)
 
 brulb
 
+picture
+
 ### Minecraft redstone Fun (2018)
 
 blurv
+
+pic 1
+
+pic 2
+
+pic 3
