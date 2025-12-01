@@ -14,11 +14,11 @@ blurbi
 
 ![Pens and Receipts Holder](./assets/images/tbd.jfif)
 
-![Pens and Receipts Holder](./assets/models/Pen-and-Receipt-Holder.stl)
+![Pens and Receipts Holder](./assets/models/Pen-and-Receipt-Holder.STL)
 
 ![Receipts Holder](./assets/images/tbd.jfif)
 
-![Receipts Holder](./assets/models/3rd-Receipts-Holder.stl)
+![Receipts Holder](./assets/models/3rd-Receipts-Holder.STL)
 
 ### Tornado Lamp (Oct 2025)
 
@@ -39,7 +39,7 @@ multi sim (Desktop Computers)
 
 2 drawings (future version of SOLIDWORKS)
 
-![Tornado Lamp Drawings](./assets/images/tornado_lamp.stl)
+![Tornado Lamp Drawings](./assets/images/tornado_lamp.STL)
 
 ### Phone case (Oct 2025)
 
@@ -47,7 +47,7 @@ blurby
 
 ![Phone Cases](./assets/images/Phones.jfif)
 
-![Phone Cases](./assets/models/Phone-Case-10.stl)
+![Phone Cases](./assets/models/Phone-Case-10.STL)
 
 ### Earbud key chain (Sept 2025)
 
@@ -55,7 +55,7 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
 
 ![Earbud Case](./assets/images/Earbud-Case-Holder.jfif)
 
-![Earbud Case](./assets/models/EarBudCase.stl)
+![Earbud Case](./assets/models/EarBudCase.STL)
 
 ### Coat hanger (Jul 2025)
 
