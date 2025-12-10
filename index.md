@@ -47,6 +47,13 @@ I had two phone cases prior to designing my new one. My previous phones did not 
 
 ![Phone Cases Picture](./assets/images/Phones.jfif)
 
+<iframe 
+    src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/Phone-Case-10.STL"
+    width="600" 
+    height="400"
+    frameborder="0">
+</iframe>
+
 ![Phone Case STL](./assets/models/Phone-Case-10.STL)
 
 ### Earbud key chain (Sept 2025)
@@ -54,6 +61,13 @@ I had two phone cases prior to designing my new one. My previous phones did not 
 When my earbud case was in my pocket, I had to get up to put away my earbuds. I created this model to be able to access my earbud case while sitting down.
 
 ![Earbud Case Picture](./assets/images/Earbud-Case-Holder.jfif)
+
+<iframe 
+    src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL"
+    width="600" 
+    height="400"
+    frameborder="0">
+</iframe>
 
 ![Earbud Case STL](./assets/models/EarBudCase.STL)
 
