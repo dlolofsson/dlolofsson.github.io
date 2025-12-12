@@ -14,17 +14,27 @@ These two containers were designed to hold the pens and receipts at the restaura
 
 ![Pens and Receipts Container Picture](./assets/images/tbd.jfif)
 
+blurb
+
 ![Pens and Receipts Container STL](./assets/models/Pen-and-Receipt-Holder.STL)
+
+blurb
 
 ![Receipts Container Picture](./assets/images/tbd.jfif)
 
+blurb
+
 ![Receipts Container STL](./assets/models/3rd-Receipts-Holder.STL)
+
+blurb
 
 ### Tornado Lamp (Oct 2025)
 
 The tornado lamp was a solo-project during my Junior year in Engineering. We had to design a part that could hold the electrical components inside. We had to design the part keeping in mind the battaries would have to be replaced in the future. I used threading to allow the top piece to screw onto the bottom one. 
 
 ![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
+
+blurb
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/shorts/NUYik51IP-0"
@@ -33,19 +43,31 @@ The tornado lamp was a solo-project during my Junior year in Engineering. We had
   allowfullscreen>
 </iframe>
 
+blurb
+
 ![Tornado Lamp Multisim](./assets/images/Tornado-Lamp-Multisim.png)
+
+blurb
 
 ![Tornado Lamp Bottom Drawing](./assets/images/Tornado-Lamp-Bottom-Drawing.JPG)
 
+blurb
+
 ![Tornado Lamp Top Drawing](./assets/images/Tornado-Lamp-Top-Drawing.JPG)
 
-![Tornado Lamp Assembly](./assets/images/Water-Tornado-Assembly.STEP)
+blurb
+
+![Tornado Lamp Assembly](./assets/images/Water-Tornado-Assembly.STL)
+
+blurb
 
 ### Phone case (Oct 2025)
 
 I had two phone cases prior to designing my new one. My previous phones did not have a flat back nor hold my driver's license. I printed my phone case in black TPU (Thermoplastic Polyurethane) to better resist falls and be easier to find in the snow.
 
 ![Phone Cases Picture](./assets/images/Phones.jfif)
+
+blurb
 
 <iframe 
     src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/Phone-Case-10.STL"
@@ -56,11 +78,15 @@ I had two phone cases prior to designing my new one. My previous phones did not 
 
 ![Phone Case STL](./assets/models/Phone-Case-10.STL)
 
+blurb
+
 ### Earbud key chain (Sept 2025)
 
 When my earbud case was in my pocket, I had to get up to put away my earbuds. I created this model to be able to access my earbud case while sitting down.
 
 ![Earbud Case Picture](./assets/images/Earbud-Case-Holder.jfif)
+
+blurb
 
 <iframe 
     src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL"
@@ -75,13 +101,19 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
 
 ![Earbud Case STL](./assets/models/EarBudCase.STL)
 
+blurb
+
 ### Coat hanger (Jul 2025)
 
 I needed a coat hanger for my wall that would have screw holes where the studs were in my wall.
 
 ![Coat Hanger Picture](./assets/images/Coat-Hanger.jfif)
 
+idk
+
 ![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STL)
+
+idk
 
 ### Marble roller coaster (May 2025)
 
@@ -89,7 +121,11 @@ This was a two-person Engineering assisbnent. Groups had to come up with a way t
 
 ![Marble Roller Coaster Picture](./assets/images/Marble-Coaster.jfif)
 
+idk
+
 ![Marble Roller Coaster STL](./assets/models/Marble-Coaster.jfif)
+
+idk
 
 <iframe width="560" height="315"
   src="https://youtube.com/watch?v=Pt2sZilWaAs"
@@ -97,6 +133,8 @@ This was a two-person Engineering assisbnent. Groups had to come up with a way t
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+idk
 
 ### Chiplet mockup (May 2025)
 
@@ -136,8 +174,8 @@ blurb
 
 ![Remade Elevator](./assets/images/MC-Elevator-Open.png)
 
-blurb
+The first elevator image is inside a building I made. I had to adjust the slime blocks to only take the blocks I wanted up to the next floor. I created the button system on the bottom floor. The second image is a recent recreation to better show the redstone I used. I used an observer at the bottom to see the trapdoor flipped by the button. The 2 pistons then extend upwards
 
-![Remade Beacon](./assets/images/Minecraft-Redstone-Picture-3.png)
+![Remade Beacon](./assets/images/MC-Colored-Beacon.png)
 
-blurb
+The colored beacon swaps between 5 different colors: red, green, blue, yellow, and white. The image above is a recent recreation I did because my original 2 beacons have a lot of blocks around them.
