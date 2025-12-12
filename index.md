@@ -10,7 +10,7 @@ Hi! My name is Daniel Olofsson. I am a junior at Minmuteman Vocational High Scho
 
 ### Receipt & Pen Container (Nov 2025)
 
-These two containers were designed to hold the pens and receipts at the restaurant I work at. The old containers were not tall enough.
+These two containers were designed to hold the pens and receipts at the restaurant I work at. The old containers did not support the receipts and pens enough. Many of the workers were new when I was designing the container and sometimes didn't know where each receipt went. I designed the new containers with a smaller width, greater height, a thumb hole, and text to describe what goes where.
 
 ![Pens and Receipts Container Picture](./assets/images/tbd.jfif)
 
@@ -22,7 +22,7 @@ These two containers were designed to hold the pens and receipts at the restaura
 
 ### Tornado Lamp (Oct 2025)
 
-The tornado lamp was a solo-project during my Junior year in Engineering.
+The tornado lamp was a solo-project during my Junior year in Engineering. We had to design a part that could hold the electrical components inside. We had to design the part keeping in mind the battaries would have to be replaced in the future. I used threading to allow the top piece to screw onto the bottom one. 
 
 ![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
 
@@ -43,7 +43,7 @@ The tornado lamp was a solo-project during my Junior year in Engineering.
 
 ### Phone case (Oct 2025)
 
-I had two phone cases prior to designing my new one. My previous phones did not have a flat back nor hold my driver's license. I printed my phone case in black TPU to better resist falls and be easier to find in the snow.
+I had two phone cases prior to designing my new one. My previous phones did not have a flat back nor hold my driver's license. I printed my phone case in black TPU (Thermoplastic Polyurethane) to better resist falls and be easier to find in the snow.
 
 ![Phone Cases Picture](./assets/images/Phones.jfif)
 
@@ -68,6 +68,8 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
     height="400"
     frameborder="0">
 </iframe>
+
+<script src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL"></script>
 
 ![Earbud Case STL](./assets/models/EarBudCase.STL)
 
