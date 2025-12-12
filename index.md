@@ -27,7 +27,7 @@ The tornado lamp was a solo-project during my Junior year in Engineering. We had
 ![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/VIDEO_ID"
+  src="https://www.youtube.com/shorts/NUYik51IP-0"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
@@ -69,6 +69,8 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
     frameborder="0">
 </iframe>
 
+<script src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL">
+
 <script src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL"></script>
 
 ![Earbud Case STL](./assets/models/EarBudCase.STL)
@@ -79,7 +81,7 @@ I needed a coat hanger for my wall that would have screw holes where the studs w
 
 ![Coat Hanger Picture](./assets/images/Coat-Hanger.jfif)
 
-![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STEP)
+![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STL)
 
 ### Marble roller coaster (May 2025)
 
@@ -90,7 +92,7 @@ This was a two-person Engineering assisbnent. Groups had to come up with a way t
 ![Marble Roller Coaster STL](./assets/models/Marble-Coaster.jfif)
 
 <iframe width="560" height="315"
-  src="https://youtu.be/Pt2sZilWaAs"
+  src="https://youtube.com/watch?v=Pt2sZilWaAs"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
@@ -98,19 +100,15 @@ This was a two-person Engineering assisbnent. Groups had to come up with a way t
 
 ### Chiplet mockup (May 2025)
 
-I worked on a chiplet assembly to print as a model for ZERO ASIIC.
-
-stl 1
-
-stl 2
-
-stl 3
-
-stl 4
+I worked on a chiplet assembly to print as a model for ZERO ASIIC. The model is supposed to show customers what the chips will look like.
 
 assembly
 
+For the digital assembly, I used Onshape to create the parts.
+
 assembly (pic)
+
+When printing the parts, I had to choose bright classic colors (Red, Green, Yellow, and Blue). I printed only one of each part before printing all of them in case the clearances were off.
 
 ### Water spout holder (Dec 2024)
 
@@ -118,18 +116,28 @@ At my job, the water spout was getting jammed when between the two pieces of woo
 
 ![Water Spout Holder](./assets/images/Water-Spout-Holder.jfif)
 
-### Beeswarm macro automation (2020)
+### Beeswarm macro automation (2018)
 
-brulb
+When I was 10, I used to love playing a video game called Bee Swarm Simulator. This game required a lot of playing in order to progress. I decided that I could collect a lot of items and the game's currency by making a simple script to keep my character in the game collecting a little. At the time when I made the macro, almost no one used macros. A few years later, more than half of players online at any given time were using advanced macros to play the game for them due to how much time had to be put into the game.
 
 ![Bee Swarm Macro Code](./assets/images/Bee-Swarm-Macro-Code.)
 
-### Minecraft redstone Fun (2018)
+### Minecraft redstone Fun (2016)
 
-When I was about 10 years old, I was very interested in minecraft redstone. I followed many online tutorials and tried to design my own things as well.
+When I was about 8 years old, I was very interested in minecraft redstone. I followed many online tutorials and tried to design my own things as well. Additioanlly, I tried to adjust the redstone to make the building around it look better.
 
-![Minecraft Restone Picture 1](./assets/images/Minecraft-Redstone-picture-1.)
+![Comparator Extended Stairs Front](./assets/images/MC-Comparator-Stairs.png)
 
-![Minecraft Redstone Picture 2](./assets/images/Minecraft-Redstone-Picture-2.)
+![Comparator Extended Stairs Back](./assets/images/MC-Stairs-Redstone.png)
 
-![Minecraft Redstone Picture 3](./assets/images/Minecraft-Redstone-Picture-3.)
+blurb
+
+![Elevator in Building](./assets/images/MC-Elevator-Used.png)
+
+![Remade Elevator](./assets/images/MC-Elevator-Open.png)
+
+blurb
+
+![Remade Beacon](./assets/images/Minecraft-Redstone-Picture-3.png)
+
+blurb
