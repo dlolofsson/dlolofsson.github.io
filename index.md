@@ -89,14 +89,8 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
 
 [View STL Model](./assets/models/earbudcase.html)
 
-blurb
 
-<iframe 
-    src="https://www.viewstl.com/?embedded=true&url=https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL"
-    width="600"
-    height="400"
-    frameborder="0">
-</iframe>
+blurb script
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/EarBudCase.STL"></script>
 
@@ -111,6 +105,7 @@ I needed a coat hanger for my wall that would have screw holes where the studs w
 
 idk
 
+
 ![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STL)
 
 idk
@@ -120,6 +115,9 @@ idk
 This was a two-person Engineering assisbnent. Groups had to come up with a way to make an infinite loop for marbles. Each project needed to have at least 2 3D-printed parts.
 
 ![Marble Roller Coaster Picture](./assets/images/Marble-Coaster.jfif)
+
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Waterwheel-223d.STL"></script>
+
 
 idk
 
