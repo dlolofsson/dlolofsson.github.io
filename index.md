@@ -95,7 +95,7 @@ blurb
     frameborder="0">
 </iframe>
 
-
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL>"></script>
 
 blurb
 
