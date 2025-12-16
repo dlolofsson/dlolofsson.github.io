@@ -88,8 +88,8 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
 
 blurb
 
-<iframe
-    src="https://www.viewstl.com/?embedded=true&url=https://dlolofsson.github.io/assets/models/EarBudCase.stl"
+<iframe 
+    src="https://www.viewstl.com/?embedded=true&url=https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.stl"
     width="600"
     height="400"
     frameborder="0">
