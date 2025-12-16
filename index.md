@@ -86,6 +86,9 @@ When my earbud case was in my pocket, I had to get up to put away my earbuds. I 
 
 ![Earbud Case Picture](./assets/images/Earbud-Case-Holder.jfif)
 
+
+[View STL Model](./assets/models/earbudcase.html)
+
 blurb
 
 <iframe 
@@ -95,7 +98,8 @@ blurb
     frameborder="0">
 </iframe>
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/blob/main/assets/models/EarBudCase.STL>"></script>
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/EarBudCase.STL"></script>
+
 
 blurb
 
