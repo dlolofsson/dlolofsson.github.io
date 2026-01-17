@@ -51,11 +51,9 @@ blurb
 
 ![Tornado Lamp Bottom Drawing](./assets/images/Tornado-Lamp-Bottom-Drawing.JPG)
 
-blurb
-
 ![Tornado Lamp Top Drawing](./assets/images/Tornado-Lamp-Top-Drawing.JPG)
 
-blurb
+Part of the project included making drawings of the 3D-printed parts in the assemblies. For my parts, my reviewer was Rishi De Francesco.
 
 ![Tornado Lamp Assembly](./assets/images/Water-Tornado-Assembly.STL)
 
@@ -67,7 +65,7 @@ I had two phone cases prior to designing my new one. My previous phones did not 
 
 ![Phone Cases Picture](./assets/images/Phones.jfif)
 
-blurb
+In the first phone at the top right, you can see the sharp edges that mostly stayed until my fourth version. The fourth version was also the one that added a small cover on the camera. I changed from PLA to PLA silk for versions three to six. I printed my seventh model in TPU at my school before buying TPU to print the rest of the models. Since I was originally printing in PLA, which is a harder filament, my phone kept on falling out of the seventh model.
 
 <iframe 
     src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/Phone-Case-10.STL"
@@ -80,22 +78,17 @@ blurb
 
 blurb
 
-### Earbud key chain (Sept 2025)
+### Earbud Case Container (Sept 2025)
 
 When my earbud case was in my pocket, I had to get up to put away my earbuds. I created this model to be able to access my earbud case while sitting down.
 
-![Earbud Case Picture](./assets/images/Earbud-Case-Holder.jfif)
+![Earbud Case Holder icture](./assets/images/Earbud-Case-Holder.jfif)
 
-
-[View STL Model](./assets/models/earbudcase.html)
-
-
-blurb script
+In the picture, I attached a carabiner to the container's hook and my belt loop on my pants.
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/EarBudCase.STL"></script>
 
-
-blurb
+I went through three versions for the container. The main problem were tolerances between the inside walls so the earbud case would not fall out of my container.
 
 ### Coat hanger (Jul 2025)
 
@@ -105,25 +98,15 @@ I needed a coat hanger for my wall that would have screw holes where the studs w
 
 idk
 
-
 ![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STL)
 
 idk
 
 ### Marble roller coaster (May 2025)
 
-This was a two-person Engineering assisbnent. Groups had to come up with a way to make an infinite loop for marbles. Each project needed to have at least 2 3D-printed parts.
+This was a two-person Engineering assignment. Groups had to come up with a way to make an infinite loop for marbles. The infinite loop had to be powered by a simple electronic circuit. Each project needed to have at least two 3D-printed parts. Although some groups only printed parts, mine used cardboard since it was made changing the ramp heights, lengths, etc easy and fast.
 
 ![Marble Roller Coaster Picture](./assets/images/Marble-Coaster.jfif)
-
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Waterwheel-223d.STL"></script>
-
-
-idk
-
-![Marble Roller Coaster STL](./assets/models/Marble-Coaster.jfif)
-
-idk
 
 <iframe width="560" height="315"
   src="https://youtube.com/watch?v=Pt2sZilWaAs"
@@ -132,7 +115,11 @@ idk
   allowfullscreen>
 </iframe>
 
-idk
+In the video, the marbles enter at the bottom right of the wheel, go up, and leave at the top to land on the cardboard ramp. My group had to add two cardboard extensions near the wheel. One carboard stop was added at the bottom so the marble would not go halfway into the slot and jump out as the wheel turned. The cardboard extension at the top marbles would not fall through the gap between the ramp and wheel in case they stayed on the wheel for a little longer than expected.
+
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Waterwheel-223d.STL"></script>
+
+The wheel was developed through four prototypes. The first two were extremely large, so they had to be split up into four pieces during printing. Another problem I encountered were marbles leaving the slots they entered to early. I fixed this problem by adding a slant on the outer and inside of the edge to keep the marbles in at the bottom, and force them out at the top.
 
 ### Chiplet mockup (May 2025)
 
@@ -140,11 +127,11 @@ I worked on a chiplet assembly to print as a model for ZERO ASIIC. The model is 
 
 assembly
 
-For the digital assembly, I used Onshape to create the parts.
+For the digital assembly, I used Onshape to create the parts. At the time, I was best at using OnShape. for the large block with four holes, I duplicated the smaller one to design quickly with minimal error. Similarly, I also duplicated the larger base to make the smaller one.
 
-assembly (pic)
+![Chiplet Assembly Picture](./assets/images/Chiplet-Assembly.png)
 
-When printing the parts, I had to choose bright classic colors (Red, Green, Yellow, and Blue). I printed only one of each part before printing all of them in case the clearances were off.
+When printing the parts, I had to choose bright classic colors (Red, Green, Yellow, and Blue). I printed only one of each part before printing all of them in case the clearances were off. When I assembled the pieces, the large brick with the four pegs were not aligned with the base plate, so I had to change the distance betwwen each peg before printing the rest.
 
 ### Water spout holder (Dec 2024)
 
@@ -166,14 +153,14 @@ When I was about 8 years old, I was very interested in minecraft redstone. I fol
 
 ![Comparator Extended Stairs Back](./assets/images/MC-Stairs-Redstone.png)
 
-blurb
+This redstone design uses a comparator to measure the angle the sword in the item frame is at. Based on the angle of the sword, the comparator sends out a stronger different redstone signal. As the signal increases, it can reach more of the sticky pistons to activate them and extend outwards forming stairs. When the sword is back to its upright position, the comparator signal resets to zero. The stairs are able to hide in the wall because they turn into corner stairs by connecting the the wall made of stairs perpendicular to the ones that are pushed out.
 
 ![Elevator in Building](./assets/images/MC-Elevator-Used.png)
 
 ![Remade Elevator](./assets/images/MC-Elevator-Open.png)
 
-The first elevator image is inside a building I made. I had to adjust the slime blocks to only take the blocks I wanted up to the next floor. I created the button system on the bottom floor. The second image is a recent recreation to better show the redstone I used. I used an observer at the bottom to see the trapdoor flipped by the button. The 2 pistons then extend upwards
+The first elevator image is inside a building I made. I had to adjust the slime blocks to only take the blocks I wanted up to the next floor. I created the button system on the bottom floor. The second image is a recent recreation to better show the redstone I used. I used an observer at the bottom to see the trapdoor flipped by the button. The two pistons then extend upwards. The slime bocks bring the sticky piston and observer up, and then only the sticky pistons retract. The observer at the top sees a new block of air and tells the sticky piston below to bring the 4 blocks below it up one block. Then the cycle repeats itself and the bottom observer sees a new air block and tells the two sticky pistons to push upwards.
 
 ![Remade Beacon](./assets/images/MC-Colored-Beacon.png)
 
-The colored beacon swaps between 5 different colors: red, green, blue, yellow, and white. The image above is a recent recreation I did because my original 2 beacons have a lot of blocks around them.
+The colored beacon swaps between five different colors: red, green, blue, yellow, and white. The image above is a recent recreation I did because my original 2 beacons were hidden under builds. The redstone would go in loop around the beacon. Each time the redstone was activated, the observer would tell the sticky piston above it to push out a block, but if it couldn't it would instead bring a block back. The redstone would have a single pulse at one of the restone dust sections. The pulse would activate the redstone repeater, and turn on the next section 0.2 seconds after while also turning off the previous section.
