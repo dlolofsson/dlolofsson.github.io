@@ -30,7 +30,7 @@ blurb
 
 ### Tornado Lamp (Oct 2025)
 
-The tornado lamp was a solo-project during my Junior year in Engineering. We had to design a part that could hold the electrical components inside. We had to design the part keeping in mind the battaries would have to be replaced in the future. I used threading to allow the top piece to screw onto the bottom one. 
+The tornado lamp was a solo-project during my Junior year in Engineering. We had to design a part that could hold the electrical components inside. We had to design the part keeping in mind the battaries would have to be replaced in the future. I used threading to allow the top piece to screw onto the bottom one.
 
 ![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
 
@@ -40,6 +40,7 @@ The tornado lamp was a solo-project during my Junior year in Engineering. We had
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+[Tornado Lamp Video](https://youtube.com/watch?v=NUYik51IP-0)
 
 blurb
 
@@ -51,11 +52,11 @@ I tested the circuit I was going to use for the tornado lamp in order to ensure 
 
 ![Tornado Lamp Top Drawing](./assets/images/Tornado-Lamp-Top-Drawing.JPG)
 
-Part of the project included making drawings of the 3D-printed parts in the assemblies. For my parts, my reviewer was Rishi De Francesco.
+Part of the project included making drawings of the 3D-printed parts in the assemblies. For my parts, my reviewer was Rishi De Francesco. The drawings were mainly for practice since manufacturers would not be able to make either of the parts I created. 
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Tornado-Assembly.STL"></script>
 
-blurb
+In the assembly theere is a jar, switch, motor, potentiometer, and the two parts I modeled. You can see the motor if you go into wireframe mode because it is inside of the parts. I used this assembly to ensure everything would fit before I started to print the parts.
 
 ### Phone case (Oct 2025)
 
@@ -65,7 +66,6 @@ I had two phone cases prior to designing my new one. My previous phones did not 
 
 In the first phone at the top right, you can see the sharp edges that mostly stayed until my fourth version. The fourth version was also the one that added a small cover on the camera. I changed from PLA to PLA silk for versions three to six. I printed my seventh model in TPU at my school before buying TPU to print the rest of the models. Since I was originally printing in PLA, which is a harder filament, my phone kept on falling out of the seventh model.
 
-![Phone Case STL](./assets/models/Phone-Case-10.STL)
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Phone-Case-10.STL"></script>
 
 blurb
@@ -86,13 +86,13 @@ I went through three versions for the container. The main problem were tolerance
 
 I needed a coat hanger for my wall since I have very limited space in my closet.
 
-![Coat Hanger Picture](./assets/images/Coat-Hanger.jfif)
+![Coat Hanger Picture](./assets/images/real-pic.jfif)
 
-idk
+I used screws to connect the coat hanger pieces to the 
 
-![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STL)
+![Coat Hanger Picture](./assets/images/Coat-Rack-Assembly.jfif)
 
-I developed two versions for how the two pieces would connect together. The first design used interlocking teeth that would let the pieces angle away from the wall. The second design used two offset tabs at the end of each piece to connect to each other and stop from angling away from the wall.
+I developed two versions for how the two pieces would connect together. The first design used interlocking teeth that would let the pieces angle away from the wall. The second design used two offset tabs at the end of each piece to connect to each other and stop from angling away from the wall. Just in case, I also added two screws in the center to make sure the tabs would stay connected.
 
 ### Marble roller coaster (May 2025)
 
@@ -106,6 +106,7 @@ This was a two-person Engineering assignment. Groups had to come up with a way t
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+[Marble Roller Coaster Video](https://youtu.be/Pt2sZilWaAs)
 
 In the video, the marbles enter at the bottom right of the wheel, go up, and leave at the top to land on the cardboard ramp. My group had to add two cardboard extensions near the wheel. One carboard stop was added at the bottom so the marble would not go halfway into the slot and jump out as the wheel turned. The cardboard extension at the top marbles would not fall through the gap between the ramp and wheel in case they stayed on the wheel for a little longer than expected.
 
@@ -121,7 +122,7 @@ assembly
 
 For the digital assembly, I used Onshape to create the parts. At the time, I was best at using OnShape. for the large block with four holes, I duplicated the smaller one to design quickly with minimal error. Similarly, I also duplicated the larger base to make the smaller one.
 
-![Chiplet Assembly Picture](./assets/images/Chiplet-Assembly.png)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/E-Bricks-Assembly.STL"></script>
 
 When printing the parts, I had to choose bright classic colors (Red, Green, Yellow, and Blue). I printed only one of each part before printing all of them in case the clearances were off. When I assembled the pieces, the large brick with the four pegs were not aligned with the base plate, so I had to change the distance betwwen each peg before printing the rest.
 
@@ -134,8 +135,6 @@ At my job, the water spout was getting jammed when between the two pieces of woo
 ### Beeswarm macro automation (2018)
 
 When I was 10, I used to love playing a video game called Bee Swarm Simulator. This game required a lot of playing in order to progress. I decided that I could collect a lot of items and the game's currency by making a simple script to keep my character in the game collecting a little. At the time when I made the macro, almost no one used macros. A few years later, more than half of players online at any given time were using advanced macros to play the game for them due to how much time had to be put into the game.
-
-![Bee Swarm Macro Code](./assets/images/Bee-Swarm-Macro-Code.)
 
 ### Minecraft redstone Fun (2016)
 
