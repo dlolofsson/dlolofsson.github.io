@@ -12,19 +12,19 @@ Hi! My name is Daniel Olofsson. I am a junior at Minmuteman Vocational High Scho
 
 These two containers were designed to hold the pens and receipts at the restaurant I work at. The old containers did not support the receipts and pens enough. Many of the workers were new when I was designing the container and sometimes didn't know where each receipt went. I designed the new containers with a smaller width, greater height, a thumb hole, and text to describe what goes where.
 
-![Pens and Receipts Container Picture](./assets/images/tbd.jfif)
+![Pens and Receipts Container Picture](./assets/images/Pens-&-Receipts.jpg)
 
 blurb
 
-![Pens and Receipts Container STL](./assets/models/Pen-and-Receipt-Holder.STL)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-And-Receipt-Holder-STL.STL"></script>
 
 blurb
 
-![Receipts Container Picture](./assets/images/tbd.jfif)
+![Receipts Container Picture](./assets/images/Take-out-&-Delivery.jpg)
 
 blurb
 
-![Receipts Container STL](./assets/models/3rd-Receipts-Holder.STL)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Receipts-Holder-STL.STL"></script>
 
 blurb
 
@@ -33,8 +33,6 @@ blurb
 The tornado lamp was a solo-project during my Junior year in Engineering. We had to design a part that could hold the electrical components inside. We had to design the part keeping in mind the battaries would have to be replaced in the future. I used threading to allow the top piece to screw onto the bottom one. 
 
 ![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
-
-blurb
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/shorts/NUYik51IP-0"
@@ -47,7 +45,7 @@ blurb
 
 ![Tornado Lamp Multisim](./assets/images/Tornado-Lamp-Multisim.png)
 
-blurb
+I tested the circuit I was going to use for the tornado lamp in order to ensure I would not burn out any LEDs from high voltages rushing through them. I split the circuit for the potentiometer to only affect the voltage going through the motor instead of the LEDs as well. The capacitor in the circuit helped smooth the transitions as the potentiometer changed how much voltage went through the motor and when the motor was suddenly turned on.
 
 ![Tornado Lamp Bottom Drawing](./assets/images/Tornado-Lamp-Bottom-Drawing.JPG)
 
@@ -55,7 +53,7 @@ blurb
 
 Part of the project included making drawings of the 3D-printed parts in the assemblies. For my parts, my reviewer was Rishi De Francesco.
 
-![Tornado Lamp Assembly](./assets/images/Water-Tornado-Assembly.STL)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Tornado-Assembly.STL"></script>
 
 blurb
 
@@ -67,14 +65,8 @@ I had two phone cases prior to designing my new one. My previous phones did not 
 
 In the first phone at the top right, you can see the sharp edges that mostly stayed until my fourth version. The fourth version was also the one that added a small cover on the camera. I changed from PLA to PLA silk for versions three to six. I printed my seventh model in TPU at my school before buying TPU to print the rest of the models. Since I was originally printing in PLA, which is a harder filament, my phone kept on falling out of the seventh model.
 
-<iframe 
-    src="https://github.com/dlolofsson/dlolofsson.github.io/blob/main/assets/models/Phone-Case-10.STL"
-    width="600" 
-    height="400"
-    frameborder="0">
-</iframe>
-
 ![Phone Case STL](./assets/models/Phone-Case-10.STL)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Phone-Case-10.STL"></script>
 
 blurb
 
@@ -82,7 +74,7 @@ blurb
 
 When my earbud case was in my pocket, I had to get up to put away my earbuds. I created this model to be able to access my earbud case while sitting down.
 
-![Earbud Case Holder icture](./assets/images/Earbud-Case-Holder.jfif)
+![Earbud Case Holder Picture](./assets/images/Earbud-Case-Holder.jfif)
 
 In the picture, I attached a carabiner to the container's hook and my belt loop on my pants.
 
@@ -92,7 +84,7 @@ I went through three versions for the container. The main problem were tolerance
 
 ### Coat hanger (Jul 2025)
 
-I needed a coat hanger for my wall that would have screw holes where the studs were in my wall.
+I needed a coat hanger for my wall since I have very limited space in my closet.
 
 ![Coat Hanger Picture](./assets/images/Coat-Hanger.jfif)
 
@@ -100,7 +92,7 @@ idk
 
 ![Coat Hanger Assembly](./assets/models/Coat-Hanger-Assembly.STL)
 
-idk
+I developed two versions for how the two pieces would connect together. The first design used interlocking teeth that would let the pieces angle away from the wall. The second design used two offset tabs at the end of each piece to connect to each other and stop from angling away from the wall.
 
 ### Marble roller coaster (May 2025)
 
@@ -123,7 +115,7 @@ The wheel was developed through four prototypes. The first two were extremely la
 
 ### Chiplet mockup (May 2025)
 
-I worked on a chiplet assembly to print as a model for ZERO ASIIC. The model is supposed to show customers what the chips will look like.
+I worked on a chiplet assembly to print as a model for ZERO ASIIC. The model shows customers what the chips will look like. The small box-like pieces with pegs replicate the small chips that will be used to make a full chip.
 
 assembly
 
