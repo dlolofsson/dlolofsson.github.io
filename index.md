@@ -14,17 +14,13 @@ These two containers were designed to hold the pens and receipts at the restaura
 
 ![Pens and Receipts Container Picture](./assets/images/Pens-&-Receipts.jpg)
 
-blurb
-
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-And-Receipt-Holder-STL.STL"></script>
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-And-Reciept-Holder-STL.STL"></script>
 
 blurb
 
 ![Receipts Container Picture](./assets/images/Take-out-&-Delivery.jpg)
 
-blurb
-
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Receipts-Holder-STL.STL"></script>
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Reciepts-Holder-STL.STL"></script>
 
 blurb
 
@@ -34,12 +30,6 @@ The tornado lamp was a solo-project during my Junior year in Engineering. We had
 
 ![Tornado Lamp](./assets/images/Tornado-Lamp.jfif)
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/shorts/NUYik51IP-0"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
 [Tornado Lamp Video](https://youtube.com/watch?v=NUYik51IP-0)
 
 blurb
@@ -52,7 +42,7 @@ I tested the circuit I was going to use for the tornado lamp in order to ensure 
 
 ![Tornado Lamp Top Drawing](./assets/images/Tornado-Lamp-Top-Drawing.JPG)
 
-Part of the project included making drawings of the 3D-printed parts in the assemblies. For my parts, my reviewer was Rishi De Francesco. The drawings were mainly for practice since manufacturers would not be able to make either of the parts I created. 
+Part of the project included making drawings of the 3D-printed parts in the assemblies. For my parts, my reviewer was Rishi De Francesco. The drawings were mainly for practice since manufacturers would not be able to make either of the parts I created. These parts are not manufacturable because of how much would have to be taken out on the inside of the part.
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Tornado-Assembly.STL"></script>
 
@@ -84,11 +74,11 @@ I went through three versions for the container. The main problem were tolerance
 
 ### Coat hanger (Jul 2025)
 
-I needed a coat hanger for my wall since I have very limited space in my closet.
+I needed a coat hanger for my wall since I have very limited space in my closet. Before the coat hanger, I would always throw my sweaters into a clump on my dresser. The coat hanger allowed me to easily find the sweater I wanted to wear at the time.
 
 ![Coat Hanger Picture](./assets/images/real-pic.jfif)
 
-I used screws to connect the coat hanger pieces to the 
+I used wood screws to connect the coat hanger pieces to the wall. I had to find two studs in my wall in order to know how far away the holes would have to be on.
 
 ![Coat Hanger Picture](./assets/images/Coat-Rack-Assembly.jfif)
 
@@ -100,12 +90,6 @@ This was a two-person Engineering assignment. Groups had to come up with a way t
 
 ![Marble Roller Coaster Picture](./assets/images/Marble-Coaster.jfif)
 
-<iframe width="560" height="315"
-  src="https://youtube.com/watch?v=Pt2sZilWaAs"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
 [Marble Roller Coaster Video](https://youtu.be/Pt2sZilWaAs)
 
 In the video, the marbles enter at the bottom right of the wheel, go up, and leave at the top to land on the cardboard ramp. My group had to add two cardboard extensions near the wheel. One carboard stop was added at the bottom so the marble would not go halfway into the slot and jump out as the wheel turned. The cardboard extension at the top marbles would not fall through the gap between the ramp and wheel in case they stayed on the wheel for a little longer than expected.
@@ -116,19 +100,19 @@ The wheel was developed through four prototypes. The first two were extremely la
 
 ### Chiplet mockup (May 2025)
 
-I worked on a chiplet assembly to print as a model for ZERO ASIIC. The model shows customers what the chips will look like. The small box-like pieces with pegs replicate the small chips that will be used to make a full chip.
+I worked on a chiplet assembly to print as a model for ZERO ASIIC. The model shows customers what the chips will look like. The small box-like pieces with pegs replicate the small chips that will be used to make a full chip. The pieces had to have just the right tolerances in order to stay inside of the plates but also be easily removable.
 
-assembly
+![Chiplet Assembly Picture](./assets/images/Chiplet-Assembly.jpg)
 
 For the digital assembly, I used Onshape to create the parts. At the time, I was best at using OnShape. for the large block with four holes, I duplicated the smaller one to design quickly with minimal error. Similarly, I also duplicated the larger base to make the smaller one.
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/E-Bricks-Assembly.STL"></script>
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/E-Bricks-Assembly.stl"></script>
 
 When printing the parts, I had to choose bright classic colors (Red, Green, Yellow, and Blue). I printed only one of each part before printing all of them in case the clearances were off. When I assembled the pieces, the large brick with the four pegs were not aligned with the base plate, so I had to change the distance betwwen each peg before printing the rest.
 
 ### Water spout holder (Dec 2024)
 
-At my job, the water spout was getting jammed when between the two pieces of wood, and would keep flowing water after taking the pitcher away. The water spout was very inconvenient to pick up when it was disconnected.
+At my job, the water spout was getting jammed when between the two pieces of wood, and would keep flowing water after taking the pitcher away. On the left of the picture are the two pieces of wood. The water spout was very inconvenient to pick up when it was disconnected. This was one of my first projects outside of my engineering classroom, so my clearances were a little off.
 
 ![Water Spout Holder](./assets/images/Water-Spout-Holder.jfif)
 
