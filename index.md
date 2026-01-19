@@ -4,25 +4,25 @@ title: Daniel Olofsson Personal Webpage
 
 ## About
 
-Hi! My name is Daniel Olofsson. I am a junior at Minmuteman Vocational High School in Massachusetts studying Engineering. In my free time, I like solving Rubik's cube (18.8s), playing video games (Minecraft), playing volleyball, snowboarding, and using my Bambu 3D printer for solving small problems around my house.
+Hi! My name is Daniel Olofsson. I am a junior at Minmuteman Vocational High School in Massachusetts studying Engineering. In my free time, I like solving Rubik's cube (18.8s), playing video games (Minecraft), playing volleyball, snowboarding, and using my Bambu 3D printer for solving small problems around my house. I also work as a waiter at Royal India Bistro most weekends.
 
 ## Projects
 
 ### Receipt & Pen Container (Nov 2025)
 
-These two containers were designed to hold the pens and receipts at the restaurant I work at. The old containers did not support the receipts and pens enough. Many of the workers were new when I was designing the container and sometimes didn't know where each receipt went. I designed the new containers with a smaller width, greater height, a thumb hole, and text to describe what goes where.
+These two containers were designed to hold the pens and receipts at the restaurant I work at. The old containers did not support the receipts and pens enough. Many of the workers were new when I was designing the container and sometimes didn't know where each receipt went. Additionally, the pens would sometimes fall out of the container they were originally in if you accidentally bumped into it. I designed the new containers with a smaller width, greater height, a thumb hole, and text to describe what goes where.
 
 ![Pens and Receipts Container Picture](./assets/images/Pens-&-Receipts.jpg)
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-And-Reciept-Holder-STL.STL"></script>
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-and-Reciept-Holder-STL.STL"></script>
 
-blurb
+The container with the pens had to be tall enough and with enough weight so the container would not fall over nor the pens fall out with the container still standing.
 
 ![Receipts Container Picture](./assets/images/Take-out-&-Delivery.jpg)
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Reciepts-Holder-STL.STL"></script>
 
-blurb
+This container needed a small width with low clearances between the receipts and side of the container along with a tall height for the receipts to not fall out.
 
 ### Tornado Lamp (Oct 2025)
 
@@ -32,7 +32,7 @@ The tornado lamp was a solo-project during my Junior year in Engineering. We had
 
 [Tornado Lamp Video](https://youtube.com/watch?v=NUYik51IP-0)
 
-blurb
+The tornado lamp used a potentiometer to control the speed of the motor which spun two magnets in a circle beneath the jar. Inside the jar, there is another magnet which creates the tornado when spun. As the speed of the motor increases, the tornado is pulled down further towards the bottom of the jar.
 
 ![Tornado Lamp Multisim](./assets/images/Tornado-Lamp-Multisim.png)
 
@@ -58,7 +58,7 @@ In the first phone at the top right, you can see the sharp edges that mostly sta
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Phone-Case-10.STL"></script>
 
-blurb
+For the final version of the phone case model, I only made a few small changes such as fixing the placement of the buttons and holes for the speaker and USB tpye C port.
 
 ### Earbud Case Container (Sept 2025)
 
