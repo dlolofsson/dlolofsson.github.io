@@ -10,7 +10,6 @@ Hi! My name is Daniel Olofsson. I am a junior at Minmuteman Vocational High Scho
 
 ### Receipt & Pen Container (Nov 2025)
 
-These two containers were designed to hold the pens and receipts at the restaurant I work at. The old containers did not support the receipts and pens enough. Many of the workers were new when I was designing the container and sometimes didn't know where each receipt went. Additionally, the pens would sometimes fall out of the container they were originally in if you accidentally bumped into it. I designed the new containers with a smaller width, greater height, a thumb hole, and text to describe what goes where.
 At the restaurant, we had two metal boxes to hold pens and receipts. The problem was that they weren't big enough, weren't labeled, and would sometimes tip over. I designed and printed two new containers with smaller width, greater height, a thumb hole, and text to describe what goes where.
 
 ![Pens and Receipts Container Picture](./assets/images/Pens-&-Receipts.jpg)
