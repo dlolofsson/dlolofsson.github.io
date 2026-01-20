@@ -76,7 +76,7 @@ I went through three versions for the container. The main problem were tolerance
 
 I needed a coat hanger for my wall since I have very limited space in my closet. Before the coat hanger, I would always throw my sweaters into a clump on my dresser. The coat hanger allowed me to easily find the sweater I wanted to wear at the time.
 
-![Coat Hanger Picture](./assets/images/real-pic.jfif)
+![Coat Hanger Picture](./assets/images/coat-rack.jfif)
 
 I used wood screws to connect the coat hanger pieces to the wall. I had to find two studs in my wall in order to know how far away the holes would have to be on.
 
