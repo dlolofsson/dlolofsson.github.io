@@ -24,6 +24,8 @@ This container needed a small width with low clearances between the receipts and
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Reciepts-Holder-STL.STL"></script>
 
+
+
 ### Tornado Lamp (Oct 2025)
 
 The tornado lamp was a solo project done during my junior year in engineering. We had to design a part that could hold the electrical components inside, keeping in mind that batteries would have to be replaced in the future. I used threading to allow the top piece to screw onto the bottom one. The tornado lamp used a potentiometer to control the speed of the motor which spun two magnets in a circle beneath the jar. Inside the jar, there is another magnet which creates the tornado when spun. As the speed of the motor increases, the tornado is pulled down further towards the bottom of the jar.
@@ -44,6 +46,8 @@ In the assembly there is a jar, switch, motor, potentiometer, and the two parts 
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Tornado-Assembly.STL"></script>
 
+
+
 ### Phone Case (Oct 2025)
 
 I had purchased two phone cases for my Pixel 7 prior to designing my own. I didn't really like either of the store-bought cases because they did not have a flat back and could not hold my driver's license. I really cared about getting this right and ended up designing and printing ten different versions of the case before I was happy. 
@@ -53,6 +57,8 @@ I had purchased two phone cases for my Pixel 7 prior to designing my own. I didn
 The first three phones at the top left were printed using PLA and were OK, but had sharp (ugly) edges. The fourth version added a small cover around the camera to make the back smoother. I experimented with Bambu's PLA silk for versions three to six to make the case more flexible, but it didn't work out. To make the case more flexible and more durable, I started printing using TPU (Thermoplastic Polyurethane). My first TPU print (7th model) failed because the flexibility caused the phone to keep falling out of the case. PLA being more rigid needed more clearance between the case and the phone. The final case I printed in black TPU to better resist falls and be easier to find in the snow. For the final version of the phone case model, I only made a few small changes such as fixing the placement of the buttons and holes for the speaker and USB type C port.
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Phone-Case-10.STL"></script>
+
+
 
 ### Earbud Case Container (Sept 2025)
 
@@ -64,6 +70,8 @@ In the picture, I attached a carabiner to the container's hook and my belt loop 
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/EarBudCase.STL"></script>
 
+
+
 ### Coat Hanger (Jul 2025)
 
 I needed a coat hanger for my wall since I have very limited space in my closet. Before the coat hanger, I would always throw my sweaters in a pile on my dresser. The coat hanger allowed me to easily find the sweater I wanted to wear at the time.
@@ -73,6 +81,8 @@ I needed a coat hanger for my wall since I have very limited space in my closet.
 I developed two versions for how the two pieces would connect together. The first design used interlocking teeth that would let the pieces angle away from the wall. The second design used two offset tabs at the end of each piece to connect to each other and stop from angling away from the wall. Just in case, I also added two screws in the center to make sure the tabs would stay connected.
 
 ![Coat Hanger Picture](./assets/images/Coat-Rack-Assembly.jfif)
+
+
 
 ### Marble Roller Coaster (May 2025)
 
@@ -89,6 +99,7 @@ The wheel was developed through four prototypes. The first two were extremely la
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Waterwheel-223d.STL"></script>
 
 
+
 ### Chiplet Mockup (May 2025)
 
 I worked on a chiplet assembly to print as a model for Zero ASIC to help customers visualize what the chips will look like. The small box-like pieces with pegs replicate the small chips that will be used to make a full chip. The pieces had to have just the right tolerances in order to stay inside of the plates but also be easily removable.
@@ -101,15 +112,21 @@ When printing the parts, I choose bright classic colors (red, green, yellow, and
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/E-Bricks-Assembly.stl"></script>
 
+
+
 ### Water Spout Holder (Dec 2024)
 
 At my job, the water spout was getting jammed and water would keep flowing after taking the pitcher away. I measured, designed, and printed a new spout holder that would help with automatic shutoff. This was one of my first projects outside of my engineering classroom.
 
 ![Water Spout Holder](./assets/images/Water-Spout-Holder.jfif)
 
+
+
 ### Bee Swarm Simulator Macro Automation (2018)
 
 When I was 10, I used to love playing a video game called Bee Swarm Simulator. This game required a lot of grinding to progress. I decided that I could collect a lot of items and the game's currency by making a simple script to keep my character in the game when I wasn't playing. At the time when I made the macro, almost no one used macros. A few years later, more than half of players online at any given time were using advanced macros to play the game for them due to how much time had to be put into progressing in the game.
+
+
 
 ### Minecraft Redstone Fun (2016)
 
