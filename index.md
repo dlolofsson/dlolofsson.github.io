@@ -10,11 +10,13 @@ Hi! My name is Daniel Olofsson. I am a junior at Minuteman Vocational High Schoo
 
 ### Rubik's Cube (July 2026)
 
-I wanted to try challenging myself by making a rubik's cube. It was a lot harder than I had originally thought since it was extremely hard to measure and figure out what features to use when designing it.
+I wanted to try challenging myself by making a Rubik's cube. It was a lot harder than I had originally thought since it was extremely hard to measure and figure out what features to use when designing it.
 
 ![Rubik's Cube Picture](./assets/images/Rubik's_cube.webp)
 
 At the moment, I have only printed some of the pieces, since I designed all the pieces during my free time when I was at a college course during the summer.
+
+
 
 ### Electro-Magnet Snowboard Binding (June 2026)
 
@@ -34,7 +36,9 @@ For my third prototype, I started using a simulation for electro-magnets where I
 
 ![Fourth Electro-Magnet Picture](./assets/images/Electro-Magnet_Pot_Soft-Iron.PNG)
 
-This model is currently too expensive for me to design, as it needs a high-purity soft-iron core & encasing.
+This model uses a high-quality soft-iron core and encasing, so I plan to test my third design first to minimize the amount of changes I will need to make on my final design. The final design will be strong enough for any scenario in snowboarding such as a hockey-stop, jumping, or falling.
+
+
 
 ### Wind Turbine (May 2026)
 
@@ -51,6 +55,8 @@ The second wind turbine had a cut-in speed of approximately 17 mph. My design is
 stl 1 (turbine)
 
 stl 2 (necelle)
+
+
 
 ### Receipt & Pen Container (Nov 2025)
 
@@ -191,9 +197,3 @@ The first elevator image is inside a building I made. I had to adjust the slime 
 The colored beacon swaps between five different colors: red, green, blue, yellow, and white. The image above is a recent recreation I did because my original 2 beacons were hidden under builds. The redstone would go in loop around the beacon. Each time the redstone was activated, the observer would tell the sticky piston above it to push out a block, but if it couldn't it would instead bring a block back. The redstone would have a single pulse at one of the redstone dust sections. The pulse would activate the redstone repeater and turn on the next section 0.2 seconds after while also turning off the previous section.
 
 ![Remade Beacon](./assets/images/MC-Colored-Beacon.png)
-
-## Potential Future Projects
-
-### Red Light Reader
-
-### Ocean Turbine
