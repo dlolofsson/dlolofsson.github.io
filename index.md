@@ -12,7 +12,7 @@ Hi! My name is Daniel Olofsson. I am a junior at Minuteman Vocational High Schoo
 
 I wanted to try challenging myself by making a rubik's cube. It was a lot harder than I had originally thought since it was extremely hard to measure and figure out what features to use when designing it.
 
-![Rubik's Cube Picture](./assets/images/Electro-Magnet_4.webp)
+![Rubik's Cube Picture](./assets/images/Rubik's_cube.webp)
 
 At the moment, I have only printed some of the pieces, since I designed all the pieces during my free time when I was at a college course during the summer.
 
