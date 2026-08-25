@@ -52,9 +52,9 @@ I first designed a small scale version of my wind turbine to check for any mista
 
 The second wind turbine had a cut-in speed of approximately 17 mph. My design is good when there is a lot of concentrated force is applied, like a water turbine, but it performs poorly as a wind turbine.
 
-stl 1 (turbine)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine-STL.STL"></script>
 
-stl 2 (necelle)
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine_Necelle-STL.STL"></script>
 
 
 
