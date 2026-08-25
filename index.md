@@ -4,9 +4,53 @@ title: Daniel Olofsson Personal Webpage
 
 ## About
 
-Hi! My name is Daniel Olofsson. I am a junior at Minuteman Vocational High School in Massachusetts studying engineering, graduating June of 2027. In my free time, I like solving Rubik's cubes (18.8s), playing video games (Minecraft), playing volleyball, snowboarding, and using my Bambu 3D printer for solving problems. I am also a waiter at Royal Indian Bistro most weekends.
+Hi! My name is Daniel Olofsson. I am a junior at Minuteman Vocational High School in Massachusetts studying engineering, graduating June of 2027. In my free time, I like solving Rubik's cubes (17.1s), playing video games (Minecraft), snowboarding, and using my Bambu 3D-printer for solving problems. I am also a waiter at Royal Indian Bistro most weekends.
 
 ## Projects
+
+### Rubik's Cube (July 2026)
+
+I wanted to try challenging myself by making a rubik's cube. It was a lot harder than I had originally thought since it was extremely hard to measure and figure out what features to use when designing it.
+
+![Rubik's Cube Picture](./assets/images/Electro-Magnet_4.webp)
+
+At the moment, I have only printed some of the pieces, since I designed all the pieces during my free time when I was at a college course during the summer.
+
+### Electro-Magnet Snowboard Binding (June 2026)
+
+One of the biggest problems with having friends that ski as a snowboarder, is feeling bad for making them wait at the top of the slope. Some companies have found their own solutions to this problem with a design called "step-on". My solution uses a permanent magnet that pulls on the low-carbon steel core & encasing for the electro-magnet as a connection. The electro-magnet creates a magnetic force with an opposing pole to the neodymium 52 magnet in order to minimize the total force connecting the boot to the binding.
+
+![First Electro-Magnet Picture](./assets/images/Electro-Magnet_1.webp)
+
+My first prototype was very weak due to the low relative permeability from the low-carbon steel, short cylinder shape, & low current. It did give me a good example of how electro-magnets work and what to change.
+
+![Second Electro-Magnet Picture](./assets/images/Electro-Magnet_2.webp)
+
+The second design used multiple tiny soft-iron rods & a higher gauge wire to increase the current. The soft-iron increased the relative permeability from 200 to 1000. The total area went down a lot due to the gaps between the rods & the decreased total diameter. I also realized that I would be able to run the current much higher than its max rating since I would only need it for approximately 1 second per run. The new electro-magnet was able to produce a noticeable amount of force, compared to the first prototype. I covered the design with duct-tape to stop the rods from falling out.
+
+![Third Electro-Magnet Picture](./assets/images/Electro-Magnet_Pot_Mild_Steel.PNG)
+
+For my third prototype, I started using a simulation for electro-magnets where I learned that the flat cylinder shape I was using greatly decreased the effective permeability of the electro-magnet. By adding the extra encasing around the wiring, the design turns into a horseshoe-like shape revolved around one pole. This shape, called a pot, would make my electro-magnet so much more powerful since the two poles would be working together instead of interfering with one another. The problem with this was I could no longer use the neodymium magnet as the constant attraction force, since the electro-magnet would be pushing & pulling against the neodymium magnet at the same time, essentially having no result.
+
+![Fourth Electro-Magnet Picture](./assets/images/Electro-Magnet_Pot_Soft-Iron.PNG)
+
+This model is currently too expensive for me to design, as it needs a high-purity soft-iron core & encasing.
+
+### Wind Turbine (May 2026)
+
+I was given one week to design a wind turbine that could generate voltage on a 3 volt motor. The wind turbine would be tested one foot away from a fan that would blow air at approximately the average speed in Massachusetts.
+
+![First Wind Turbine Picture](./assets/images/Wind_Turbine_1.webp)
+
+I first designed a small scale version of my wind turbine to check for any mistakes before making the final version. In the small version, it needed a high concentrated speed on the airfoil wings so the fan could not spin the turbine, but blowing on it and compressed air machines would make it spin very fast. By blowing on the turbine, I was able to demolish previous year records of 2 volts with 4.3 volts.
+
+![Second Wind Turbine Picture](./assets/images/wind_turbine_2.webp)
+
+The second wind turbine had a cut-in speed of approximately 17 mph. My design is good when there is a lot of concentrated force is applied, like a water turbine, but it performs poorly as a wind turbine.
+
+stl 1 (turbine)
+
+stl 2 (necelle)
 
 ### Receipt & Pen Container (Nov 2025)
 
@@ -147,3 +191,9 @@ The first elevator image is inside a building I made. I had to adjust the slime 
 The colored beacon swaps between five different colors: red, green, blue, yellow, and white. The image above is a recent recreation I did because my original 2 beacons were hidden under builds. The redstone would go in loop around the beacon. Each time the redstone was activated, the observer would tell the sticky piston above it to push out a block, but if it couldn't it would instead bring a block back. The redstone would have a single pulse at one of the redstone dust sections. The pulse would activate the redstone repeater and turn on the next section 0.2 seconds after while also turning off the previous section.
 
 ![Remade Beacon](./assets/images/MC-Colored-Beacon.png)
+
+## Potential Future Projects
+
+### Red Light Reader
+
+### Ocean Turbine
