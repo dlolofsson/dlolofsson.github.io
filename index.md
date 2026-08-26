@@ -4,7 +4,7 @@ title: Daniel Olofsson Personal Webpage
 
 ## About
 
-Hi! My name is Daniel Olofsson. I am a junior at Minuteman Vocational High School in Massachusetts studying engineering, graduating June of 2027. In my free time, I like solving Rubik's cubes (17.1s), playing video games (Minecraft), snowboarding, and using my Bambu 3D-printer for solving problems. I am also a waiter at Royal Indian Bistro most weekends.
+Hi! My name is Daniel Olofsson. I am a senior at Minuteman Vocational High School in Massachusetts studying engineering, graduating June of 2027. In my free time, I like solving Rubik's cubes (17.1s), playing video games (Minecraft), snowboarding, and using my Bambu 3D-printer for solving problems. I am also a waiter at Royal Indian Bistro most weekends.
 
 ## Projects
 
