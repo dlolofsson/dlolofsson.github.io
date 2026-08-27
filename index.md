@@ -32,11 +32,11 @@ The second design used multiple tiny soft-iron rods & a higher gauge wire to inc
 
 ![Third Electro-Magnet Picture](./assets/images/Electro-Magnet_Pot_Mild_Steel.PNG)
 
-For my third prototype, I started using a simulation for electro-magnets where I learned that the flat cylinder shape I was using greatly decreased the effective permeability of the electro-magnet. By adding the extra encasing around the wiring, the design turns into a horseshoe-like shape revolved around one pole. This shape, called a pot, would make my electro-magnet so much more powerful since the two poles would be working together instead of interfering with one another. The problem with this was I could no longer use the neodymium magnet as the constant attraction force, since the electro-magnet would be pushing & pulling against the neodymium magnet at the same time, essentially having no result.
+For my third prototype, I started using a simulation for electro-magnets where I learned that the flat cylinder shape I was using greatly decreased the effective permeability of the electro-magnet. By adding the extra encasing around the wiring, the design turns into a horseshoe-like shape revolved around one pole. This shape, called a pot, would make my electro-magnet so much more powerful since the two poles would be working together instead of interfering with one another. The problem with this was I could no longer use the neodymium magnet as the constant attraction force, since the electro-magnet would be pushing & pulling against the neodymium magnet at the same time, essentially having no result. I am currently building this magnet.
 
 ![Fourth Electro-Magnet Picture](./assets/images/Electro-Magnet_Pot_Soft-Iron.PNG)
 
-This model uses a high-quality soft-iron core and encasing, so I plan to test my third design first to minimize the amount of changes I will need to make on my final design. The final design will be strong enough for any scenario in snowboarding such as a hockey-stop, jumping, or falling.
+This model uses a high-quality soft-iron core and encasing, so I plan to test my third design first to minimize the amount of changes I will need to make on my final design. The final design will be strong enough for any scenario in snowboarding such as a hockey-stop, jumping, or falling. I plan to develop this magnet late December or January.
 
 
 
@@ -50,7 +50,7 @@ I first designed a small scale version of my wind turbine to check for any mista
 
 ![Second Wind Turbine Picture](./assets/images/wind_turbine_2.webp)
 
-The second wind turbine had a cut-in speed of approximately 17 mph. My design is good when there is a lot of concentrated force is applied, like a water turbine, but it performs poorly as a wind turbine.
+The second wind turbine had a cut-in speed of approximately 17 mph. My design is good when there is a lot of concentrated force is applied, like a water turbine, but it performs poorly as a wind turbine. I plan to develop a new design to put in the ocean in the Spring of 2027.
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine-STL.STL"></script>
 
