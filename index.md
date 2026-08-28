@@ -52,9 +52,9 @@ I first designed a small scale version of my wind turbine to check for any mista
 
 The second wind turbine had a cut-in speed of approximately 17 mph. My design is good when there is a lot of concentrated force is applied, like a water turbine, but it performs poorly as a wind turbine. I plan to develop a new design to put in the ocean in the Spring of 2027.
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine-STL.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine-STL.STL"></script> -->
 
-<model-viewer 
+<!-- <model-viewer
   src="./assets/models/Turbine-STL.STL" 
   alt="3D Turbine Model" 
   auto-rotate 
@@ -64,7 +64,7 @@ The second wind turbine had a cut-in speed of approximately 17 mph. My design is
 
 test 2
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine_Necelle-STL.STL"></script>
+<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine_Necelle-STL.STL"></script> -->
 
 
 
@@ -80,9 +80,9 @@ The container with the pens had to be tall enough and heavy enough so the contai
 
 This container needed a small width with low clearances between the receipts and side of the container along with a tall height for the receipts to not fall out.
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-and-Reciept-Holder-STL.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Pen-and-Reciept-Holder-STL.STL"></script> -->
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Reciepts-Holder-STL.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Reciepts-Holder-STL.STL"></script> -->
 
 
 
@@ -104,7 +104,7 @@ In the assembly there is a jar, switch, motor, potentiometer, and the two parts 
 
 ![Tornado Lamp Top Drawing](./assets/images/Tornado-Lamp-Top-Drawing.JPG)
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Tornado-Assembly.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Tornado-Assembly.STL"></script> -->
 
 
 
@@ -116,7 +116,7 @@ I had purchased two phone cases for my Pixel 7 prior to designing my own. I didn
 
 The first three phones at the top left were printed using PLA and were OK, but had sharp (ugly) edges. The fourth version added a small cover around the camera to make the back smoother. I experimented with Bambu's PLA silk for versions three to six to make the case more flexible, but it didn't work out. To make the case more flexible and more durable, I started printing using TPU (Thermoplastic Polyurethane). My first TPU print (7th model) failed because the flexibility caused the phone to keep falling out of the case. PLA being more rigid needed more clearance between the case and the phone. The final case I printed in black TPU to better resist falls and be easier to find in the snow. For the final version of the phone case model, I only made a few small changes such as fixing the placement of the buttons and holes for the speaker and USB type C port.
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Phone-Case-10.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Phone-Case-10.STL"></script> -->
 
 
 
@@ -128,7 +128,7 @@ In the picture, I attached a carabiner to the container's hook and my belt loop 
 
 ![Earbud Case Holder Picture](./assets/images/Earbud-Case-Holder.jfif)
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/EarBudCase.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/EarBudCase.STL"></script> -->
 
 
 
@@ -156,7 +156,7 @@ In the video, the marbles enter at the bottom right of the wheel, go up, and lea
 
 The wheel was developed through four prototypes. The first two were extremely large, so they had to be split up into four pieces during printing. Another problem I encountered were marbles leaving the slots they entered too early. I fixed this problem by adding a slant on the further edge and the inner edge to keep the marbles in at the bottom and force them out at the top.
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Waterwheel-223d.STL"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Waterwheel-223d.STL"></script> -->
 
 
 
@@ -170,7 +170,7 @@ For the digital assembly, I used Onshape to create the parts. At the time, I was
 
 When printing the parts, I choose bright classic colors (red, green, yellow, and blue) for effect. I printed only one of each part before printing all of them in case the clearances were off. When I assembled the pieces, the large brick with the four pegs was not aligned with the base plate, so I had to change the distance between each peg before printing the rest.
 
-<script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/E-Bricks-Assembly.stl"></script>
+<!-- <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/E-Bricks-Assembly.stl"></script> -->
 
 
 
