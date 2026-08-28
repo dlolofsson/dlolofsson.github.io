@@ -54,6 +54,14 @@ The second wind turbine had a cut-in speed of approximately 17 mph. My design is
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine-STL.STL"></script>
 
+<model-viewer 
+  src="./assets/models/Turbine-STL.STL" 
+  alt="3D Turbine Model" 
+  auto-rotate 
+  camera-controls 
+  style="width: 100%; height: 400px;">
+</model-viewer>
+
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine_Necelle-STL.STL"></script>
 
 
