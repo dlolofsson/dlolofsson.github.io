@@ -1,7 +1,7 @@
 ---
 title: Daniel Olofsson Personal Webpage
 ---
-
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 ## About
 
 Hi! My name is Daniel Olofsson. I am a senior at Minuteman Vocational High School in Massachusetts studying engineering, graduating June of 2027. In my free time, I like solving Rubik's cubes (17.1s), playing video games (Minecraft), snowboarding, and using my Bambu 3D-printer for solving problems. I am also a waiter at Royal Indian Bistro most weekends.
@@ -62,7 +62,7 @@ The second wind turbine had a cut-in speed of approximately 17 mph. My design is
   style="width: 100%; height: 400px;">
 </model-viewer>
 
-test
+test 2
 
 <script src="https://embed.github.com/view/3d/dlolofsson/dlolofsson.github.io/main/assets/models/Turbine_Necelle-STL.STL"></script>
 
